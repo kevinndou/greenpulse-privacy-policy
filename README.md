@@ -7,7 +7,7 @@ Effective Date: 01/12/2024
 This Privacy Policy explains how Earthlink Environmental ("we", "us", or "our") handles the privacy and security of the Tshwane GreenPulse app (the "App").
 
 1. Information We Collect
-   - The Tshwane GreenPulse app does not collect any personal information from its users. The app is designed to solely provide information and analysis related to emissions and environmental data for the City of Tshwane. No user data is collected through the use of this app.
+   - The Tshwane GreenPulse app does not collect any personal information from its users. The app is designed to solely provide information and analysis related to emissions and environmental data. No user data is collected through the use of this app.
 
 2. How We Use Your Information
    - Since the app does not collect any personal information, there is no data for us to use or share.
